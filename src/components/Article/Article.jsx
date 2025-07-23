@@ -11,7 +11,7 @@ const Article = ({ title, text, tags, image, alt }) => {
       </div>
       <div className="grid gap-1 ">
         {text.map((content, index) => (
-          <p key={index} className="text-alura-200 dark:text-gray-400">
+          <p key={index} className="text-alura-200 dark:text-gray-400 line-clamp-2 sm:line-clamp-none">
             {content}
           </p>
         ))}
