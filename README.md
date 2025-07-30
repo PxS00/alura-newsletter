@@ -69,5 +69,6 @@ v1.0.0 — Versão final após conclusão do curso
 
 Desenvolvido por Lucas Rossoni Dieder  
 GitHub: [@PxS00](https://github.com/PxS00)
+LinkedIn: [lucas-rossoni-dieder](https://www.linkedin.com/in/lucas-rossoni-dieder)
 
 Projeto desenvolvido com fins educacionais através da plataforma Alura.
